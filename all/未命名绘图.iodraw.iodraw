@@ -16,7 +16,7 @@
         <mxCell id="qJ41Ck32Dij6l5NKg_Of-1" value="game manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qJ41Ck32Dij6l5NKg_Of-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qJ41Ck32Dij6l5NKg_Of-2" target="qJ41Ck32Dij6l5NKg_Of-4">
+        <mxCell id="qJ41Ck32Dij6l5NKg_Of-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qJ41Ck32Dij6l5NKg_Of-1" target="qJ41Ck32Dij6l5NKg_Of-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qJ41Ck32Dij6l5NKg_Of-2" value="network manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
