@@ -62,7 +62,7 @@
         <mxCell id="qJ41Ck32Dij6l5NKg_Of-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.806;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="qJ41Ck32Dij6l5NKg_Of-2" target="qJ41Ck32Dij6l5NKg_Of-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qJ41Ck32Dij6l5NKg_Of-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qJ41Ck32Dij6l5NKg_Of-22">
+        <mxCell id="qJ41Ck32Dij6l5NKg_Of-23" value="转发input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qJ41Ck32Dij6l5NKg_Of-22">
           <mxGeometry x="-0.0535" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
